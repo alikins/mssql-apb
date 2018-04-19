@@ -2,7 +2,7 @@
 version: 1.0
 name: mssql-apb
 description: Deployment of Microsoft SQL Server on Linux
-bindable: blah 
+bindable: true
 async: optional
 metadata:
   displayName: Microsoft SQL Server on Linux
