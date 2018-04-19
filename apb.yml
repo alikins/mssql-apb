@@ -15,7 +15,6 @@ tags:
   - database
   - mssql
 plans:
-  - nada
   - description: This plan deploys an ephemeral Microsoft SQL Server on Linux.
     free: true
     default: true
