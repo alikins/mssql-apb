@@ -1,9 +1,9 @@
 ---
-version: 1.0
-name: mssql-apb
+version: 1.3
+name: msSql-apb
 description: Deployment of Microsoft SQL Server on Linux
-bindable: true
-async: optional
+bindable: blah 
+async: foo 
 metadata:
   displayName: Microsoft SQL Server on Linux
   imageUrl:
@@ -15,8 +15,8 @@ tags:
   - database
   - mssql
 plans:
-  - name: ephemeral
-    description: This plan deploys an ephemeral Microsoft SQL Server on Linux.
+  - nada
+  - description: This plan deploys an ephemeral Microsoft SQL Server on Linux.
     free: true
     default: true
     metadata:
